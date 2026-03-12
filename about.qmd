@@ -1,0 +1,32 @@
+---
+title: "关于我"
+---
+
+# 你好，我是王东浩 👋
+
+![我的头像](avatar.jpg)
+
+我是一名热爱数据科学的开发者，目前正在探索 Quarto 和 R 语言。这个网站是我记录学习和分享项目的空间。
+
+## 我的技能
+- **编程语言**：Python, R, SQL
+- **数据分析**：Pandas, tidyverse, ggplot2
+- **Web技术**：HTML, CSS, Quarto
+
+## 我的经历
+- 🎓 **华中农业大学** – 土壤学（2025-）
+- 💼 **河南农业大学** – 本科（2021-2025）
+- 🌟 参与过本科实习，熟悉相关科研技能。
+
+## 兴趣爱好
+- 📚 阅读小说
+- 🎮 王者、CS2
+- 🏃 跑步和户外徒步
+
+## 联系我
+- 📧 邮箱：[donghao.wang@example.com](mailto:donghao.wang@example.com)
+- 💻 GitHub：[Fuguiera11y](https://github.com/Fuguiera11y)
+
+---
+
+> “数据是新的石油，但只有经过提炼才能产生价值。” – 某位数据科学家

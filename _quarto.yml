@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "王东浩个人网站"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/Fuguiera11y
+      - icon: twitter
+        href: https://twitter.com/Fuguiera11y
+
+format:
+  html:
+    theme: flatly
+    css: styles.css

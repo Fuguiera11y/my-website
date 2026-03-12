@@ -1,10 +1,10 @@
 ---
-title: "关于我"
+title: "About"
 ---
 
 # 你好，我是王东浩 👋
 
-![我的头像](avatar.jpg)
+![我的头像](123.jpg)
 
 我是一名热爱数据科学的开发者，目前正在探索 Quarto 和 R 语言。这个网站是我记录学习和分享项目的空间。
 
@@ -21,7 +21,7 @@ title: "关于我"
 ## 兴趣爱好
 - 📚 阅读小说
 - 🎮 王者、CS2
-- 🏃 跑步和户外徒步
+- 🏃 跑步，爬山和户外徒步
 
 ## 联系我
 - 📧 邮箱：[donghao.wang@example.com](mailto:donghao.wang@example.com)
